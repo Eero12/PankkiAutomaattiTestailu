@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+backend/node_modules/ 
+bank-automat/build/ 
+bank-automat/*.user

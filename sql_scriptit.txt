@@ -1,0 +1,11 @@
+Create database testbankdb
+
+synkronointi!!
+
+
+
+käyttikset!!
+
+create user bankuser@localhost identified by 'kala123';
+
+GRANT ALL  ON testbankdb.* TO bankuser@localhost;
